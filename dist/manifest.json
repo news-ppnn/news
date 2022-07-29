@@ -1,0 +1,72 @@
+{
+    "name": "임영웅 PUZZLE GAME",
+    "short_name": "임영웅 PUZZLE GAME",
+    "description": "임영웅 퍼즐 게임 사이트입니다.",
+    "start_url": "/",
+    "icons": [    
+      {
+        "src": "/public/img/icon/16.png",
+        "type": "image/png",
+        "sizes": "16x16"      
+      },
+      {
+        "src": "/public/img/icon/32.png",
+        "type": "image/png",
+        "sizes": "32x32"        
+      },
+      {
+        "src": "/public/img/icon/48.png",
+        "type": "image/png",
+        "sizes": "48x48"        
+      },
+      {
+        "src": "/public/img/icon/64.png",
+        "type": "image/png",
+        "sizes": "64x64"        
+      },
+      {
+        "src": "/public/img/icon/72.png",
+        "type": "image/png",
+        "sizes": "72x72"        
+      },
+      {
+        "src": "/public/img/icon/96.png",
+        "type": "image/png",
+        "sizes": "96x96"        
+      },
+      {
+        "src": "/public/img/icon/128.png",
+        "type": "image/png",
+        "sizes": "128x128"        
+      },
+      {
+        "src": "/public/img/icon/144.png",
+        "type": "image/png",
+        "sizes": "144x144"        
+      },
+      {
+        "src": "/public/img/icon/192.png",
+        "type": "image/png",
+        "sizes": "192x192"        
+      },
+      {
+        "src": "/public/img/icon/256.png",
+        "type": "image/png",
+        "sizes": "256x256"        
+      },    
+      {
+        "src": "/public/img/icon/512.png",
+        "type": "image/png",
+        "sizes": "512x512"        
+      },
+      {
+        "src": "/public/img/icon/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"        
+      }  
+    ],
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fff"
+  }
