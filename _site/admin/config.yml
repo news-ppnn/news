@@ -8,9 +8,11 @@ public_folder: "public/img/uploads"
 collections:
   - name: "posts"
     label: "Posts"
+    create: true
     folder: "input/posts"
-    slug: "{{ slug }}"
+    slug: "{{ slug }}"   
     fields: 
+      - { label: "Permalink", name : "permalink", widget: "string"}
       - { label: "Layout", name: "layout", widget: "hidden", default: "basic/base.njk"}
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Description", name: "description", widget: "string"}
