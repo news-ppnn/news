@@ -1,5 +1,5 @@
 ---
 layout : "basic/base.njk"
-permalink : economy/1.html
+permalink : test.html
 ---
 안녕하세요

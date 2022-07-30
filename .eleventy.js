@@ -11,7 +11,7 @@ module.exports = function (config) {
     passthroughFileCopy: true,
     dir: {
       input: "input",
-      output: "dist",
+      output: "_site",
       includes: "_includes",
     },
     templateFormats: ["md", "njk", "html"],
