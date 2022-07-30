@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/test.html</loc>
-            <lastmod>2022-07-29T16:15:55.906Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/</loc>
             <lastmod>2022-07-29T16:20:53.687Z</lastmod>
         </url>
@@ -17,8 +12,8 @@
         </url>
     
         <url>
-            <loc>/hi.html</loc>
-            <lastmod>2022-07-30T06:26:23.563Z</lastmod>
+            <loc>/test.html</loc>
+            <lastmod>2022-07-30T06:51:25.486Z</lastmod>
         </url>
     
 </urlset>
