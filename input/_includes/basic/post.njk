@@ -1,0 +1,7 @@
+---
+layout: basic/base.njk
+---
+<h1>{{ title }}</h1>
+<!-- | url는 filter다. -->
+<img src="{{ featuredImage | url}}" alt="{{title}}-썸네일"/>
+{{ content | safe }}
